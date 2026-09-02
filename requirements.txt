@@ -17,6 +17,8 @@ pandas
 openpyxl
 jq
 matplotlib
+faiss-cpu
+langchain
 ## Embeddings
 langchain-huggingface
 sentence-transformers
