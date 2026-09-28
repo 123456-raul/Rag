@@ -27,3 +27,4 @@ rank_bm25
 wikipedia
 langgraph
 ipykernel
+langchain-huggingface
